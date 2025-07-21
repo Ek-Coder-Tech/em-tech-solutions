@@ -23,10 +23,9 @@ Live Demo: [https://ek-coder-tech.github.io/em-tech-solutions](https://ek-coder-
 - JavaScript
 - GitHub Pages
 
-## 🙌 Author
-**Eric Mutisya**  
-Python Developer | Web Developer | Freelancer  
-Upwork Profile: https://www.upwork.com/freelancers/~012558bab6232e8e65
+## Created by Eric Mutisya  
+🔗 [GitHub Portfolio](https://github.com/Ek-Coder-Tech)  
+🔗 [Published on Upwork Portfolio](https://www.upwork.com/freelancers/~012558bab6232e8e65)
 
 
 ### 📜 License
